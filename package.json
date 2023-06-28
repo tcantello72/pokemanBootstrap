@@ -1,0 +1,26 @@
+{
+  "name": "pokemanbootstrap",
+  "version": "1.0.0",
+  "description": "Pokeman React Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel client/index.html --open"
+  },
+  "keywords": [],
+  "author": "Toby Cantello",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.6",
+    "bootstrap": "^5.3.0",
+    "parcel": "^2.9.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
